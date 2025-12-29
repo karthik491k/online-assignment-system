@@ -27,3 +27,15 @@ https://online-assignment-system.vercel.app
 
 ## Conclusion
 This project demonstrates the use of modern frontend technologies to build a simple and effective online assignment management system.
+
+## Group Members
+
+1. Abhee – Project Lead & Contributor  
+   GitHub: https://github.com/abhee1619
+
+2. K Karthik – Contributor & Developer  
+   GitHub: https://github.com/karthik491k
+
+3. Manikanta – Contributor  
+   GitHub: https://github.com/manikanta05290
+
